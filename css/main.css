@@ -89,12 +89,26 @@ main .boxPages .box img {
 }
 
 @media (max-width: 480px) {
+    main {
+        margin: 10px;
+    }
+
     main .boxPages {
         justify-content: center;
     }
 
     main .mainTitle div {
-        font-size: 11px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 376px) {
+    main {
+        margin: 15px;
+    }
+
+    main .mainTitle div {
+        font-size: 10px;
     }
 }
 
