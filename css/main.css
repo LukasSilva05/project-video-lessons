@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+html,
+body {
+    background: #f2f2f2;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* -------------  header start ----------------- */
+
+header {
+    flex: 8;
+    box-shadow: 0 2px 3px #ccc;
+    background: #e8e8e8;
+}
+
+header .topbar {
+    display: flex;
+    padding: 18px 30px;
+    justify-content: space-between;
+}
+
+header img {
+    width: 32px;
+}
+
+/* -------------  header end  ----------------- */
+
+
+
+
+
+/* -------------  main start ----------------- */
+
+main {
+    flex: 84;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin: 50px;
+}
+
+main a {
+    text-decoration: none;
+    color: inherit;
+}
+
+main .mainTitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main .boxPages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+main .boxPages .box {
+    height: 120px;
+    width: 130px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background: #e8e8e8;
+    box-shadow: 2px 2px 3px #ccc;
+}
+
+main .boxPages .box:hover {
+    background: #ddd;
+}
+
+main .boxPages .box img {
+    width: 70px;
+}
+
+/* -------------  main end ----------------- */
+
+
+
+
+
+/* -------------  footer start ----------------- */
+
+footer {
+    flex: 8;
+    font-size: 12px;
+    box-shadow: 0 -2px 3px #ccc;
+    background: #e8e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+
+/* -------------  footer end ----------------- */
