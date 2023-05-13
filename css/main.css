@@ -44,9 +44,9 @@ header img {
 main {
     flex: 84;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    gap: 100px;
+    flex-wrap: wrap;
     margin: 50px;
 }
 
@@ -64,7 +64,7 @@ main .mainTitle {
 main .boxPages {
     display: flex;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 12px;
 }
 
 main .boxPages .box {
@@ -86,6 +86,16 @@ main .boxPages .box:hover {
 
 main .boxPages .box img {
     width: 70px;
+}
+
+@media (max-width: 480px) {
+    main .boxPages {
+        justify-content: center;
+    }
+
+    main .mainTitle div {
+        font-size: 11px;
+    }
 }
 
 /* -------------  main end ----------------- */
