@@ -192,7 +192,7 @@ main .video-list .vid .subtitle {
     main {
         flex-flow: column wrap;
         padding: 0;
-
+        margin: 0;
     }
 
     main .main-video {
@@ -231,6 +231,10 @@ main .video-list .vid .subtitle {
 
     main .video-list .vid .subtitle {
         font-size: 10px;
+    }
+
+    main .video-list::-webkit-scrollbar {
+        width: 0px;
     }
 }
 
