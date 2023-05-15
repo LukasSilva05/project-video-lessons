@@ -203,9 +203,10 @@ main .video-list .vid .subtitle {
 
     main .main-video .title {
         font-size: 18px;
+        padding: 10px;
     }
 
-    main .main-video .desc {
+    main .main-video .description {
         padding: 0px 10px;
         font-size: 10px;
     }

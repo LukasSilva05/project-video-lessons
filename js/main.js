@@ -1,8 +1,6 @@
 export function loadVideos(arrayVideos) {
-    let listVideos = document.querySelector('.video-list')
-    let mainVideo = document.querySelector('.main-video iframe')
-    let title = document.querySelector('.main-video .title')
-    let description = document.querySelector('.main-video .description')
+    const listVideos = document.querySelector('.video-list')
+    const [mainVideo, title, description] = document.querySelector('.main-video .video').children
 
     mainVideo.src = arrayVideos[0].src
     title.innerHTML = arrayVideos[0].title
@@ -26,10 +24,8 @@ export function loadVideos(arrayVideos) {
 }
 
 function clickOnVideo(arrayVideos) {
-    let listVideos = document.querySelectorAll('.video-list .vid')
-    let mainVideo = document.querySelector('.main-video iframe')
-    let title = document.querySelector('.main-video .title')
-    let description = document.querySelector('.main-video .description')
+    const listVideos = document.querySelectorAll('.video-list .vid')
+    const [mainVideo, title, description] = document.querySelector('.main-video .video').children
 
     listVideos.forEach((video, index) => {
         video.addEventListener('click', () => {
