@@ -48,7 +48,7 @@ a {
 }
 
 a:hover {
-    border-bottom: 2px solid #29b95e;
+    border-bottom: 3px solid #29b95e;
 }
 
 @media (max-width: 480px) {
