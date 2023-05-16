@@ -1,3 +1,50 @@
+export function loadHeader(...links) {
+    const header = document.querySelector('header')
+
+    header.innerHTML = `
+        <section class='topbar'>
+            <h2>Logo</h2>
+            <nav></nav>
+        </section>
+    `
+    const topbar = document.querySelector('.topbar nav')
+
+    links.forEach(link => {
+        const a = document.createElement('a')
+
+        a.innerHTML = `
+            <a href="${link}">
+                <h3>${link.indexOf('index') != -1 ? 'Início' : link.indexOf('playlist-html') != -1 ? 'Html' : link.indexOf('playlist-Js') != -1 ? 'JavaScript' : link.indexOf('playlist-exercicios') != -1 ? 'Exercícios' : 'PDFs'}</h3>
+            </a>
+        `
+
+        topbar.appendChild(a)
+    })
+}
+
+export function loadMainContent(title) {
+    const main = document.querySelector('main')
+
+    main.innerHTML = `
+        <div class="main-video">
+            <div class="video">
+                <iframe src="" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+                    allowfullscreen></iframe>
+                <h3 class="title"></h3>
+                <span class="description"></span>
+            </div>
+        </div>
+        <div class="video-list-div">
+            <div class="video-list-title">
+                <h1>${title}</h1>
+                <h4 class="aulas"></h4>
+            </div>
+            <div class="video-list"></div>
+        </div>
+    `
+}
+
 export function loadVideos(arrayVideos) {
     const listVideos = document.querySelector('.video-list')
     const [mainVideo, title, description] = document.querySelector('.main-video .video').children

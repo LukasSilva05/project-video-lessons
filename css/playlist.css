@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'JetBrains Mono', monospace;
+
 }
 
 html,
@@ -24,6 +25,7 @@ header {
     flex: 8;
     box-shadow: 0 2px 3px #ccc;
     background: #e8e8e8;
+    user-select: none;
 }
 
 header .topbar {
@@ -39,7 +41,7 @@ header img {
 header nav {
     display: flex;
     gap: 30px;
-    padding-top: 5px;
+    padding-top: 3px;
 }
 
 a {
@@ -48,7 +50,7 @@ a {
 }
 
 a:hover {
-    border-bottom: 3px solid #29b95e;
+    border-bottom: 2px solid #29b95e;
 }
 
 @media (max-width: 480px) {
@@ -256,6 +258,7 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 16px;
+    user-select: none;
 }
 
 /* -------------  footer end ----------------- */
