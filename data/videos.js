@@ -35,6 +35,15 @@ export const listOfJs = [
     {
         src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 12", subtitle: 'subtitle 12', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
     },
+    {
+        src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 13", subtitle: 'subtitle 11', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
+    },
+    {
+        src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 14", subtitle: 'subtitle 12', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
+    },
+    {
+        src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 15", subtitle: 'subtitle 09', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
+    },
 ]
 
 export const listOfHtml = [
@@ -112,5 +121,8 @@ export const listOfExercises = [
     },
     {
         src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 12", subtitle: 'subtitle 12', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
+    },
+    {
+        src: "https://www.youtube.com/embed/h1-zQ0SSS6M", title: "Aula 01", subtitle: 'subtitle 01', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
     },
 ] 

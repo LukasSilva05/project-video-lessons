@@ -22,7 +22,7 @@ export function loadHeader(...links) {
     })
 }
 
-export function loadMainContent(title) {
+export function loadMainContent(title, listPage) {
     const main = document.querySelector('main')
 
     main.innerHTML = `
@@ -38,7 +38,7 @@ export function loadMainContent(title) {
         <div class="video-list-div">
             <div class="video-list-title">
                 <h1>${title}</h1>
-                <h4 class="aulas"></h4>
+                <h4 class="aulas">${listPage.length < 10 ? '0' + listPage.length : listPage.length} aulas</h4>
             </div>
             <div class="video-list"></div>
         </div>
