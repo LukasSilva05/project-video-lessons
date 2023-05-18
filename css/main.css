@@ -23,7 +23,7 @@ body {
 
 header {
     flex: 8;
-    box-shadow: 0 2px 3px #ccc;
+    box-shadow: 0 2px 12px #ccc;
     background: #e8e8e8;
 }
 
@@ -81,7 +81,7 @@ main .boxPages .box {
     align-items: center;
     gap: 5px;
     background: #e8e8e8;
-    box-shadow: 2px 2px 3px #ccc;
+    box-shadow: 2px 2px 8px #ccc;
 }
 
 main .boxPages .box:hover {
@@ -127,7 +127,7 @@ main .boxPages .box img {
 footer {
     flex: 8;
     font-size: 12px;
-    box-shadow: 0 -2px 3px #ccc;
+    box-shadow: 0 -2px 12px #ccc;
     background: #e8e8e8;
     display: flex;
     justify-content: center;
