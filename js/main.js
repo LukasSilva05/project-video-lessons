@@ -14,7 +14,7 @@ export function loadHeader(...links) {
 
         a.innerHTML = `
             <a href="${link}">
-                <h3>${link.indexOf('index') != -1 ? 'Início' : link.indexOf('playlist-html') != -1 ? 'Html' : link.indexOf('playlist-Js') != -1 ? 'JavaScript' : link.indexOf('playlist-exercicios') != -1 ? 'Exercícios' : 'PDFs'}</h3>
+                <h3>${link.indexOf('index') != -1 ? 'Início' : link.indexOf('playlist-html') != -1 ? 'HTML' : link.indexOf('playlist-Js') != -1 ? 'JavaScript' : link.indexOf('playlist-exercicios') != -1 ? 'Exercícios' : 'PDFs'}</h3>
             </a>
         `
 
