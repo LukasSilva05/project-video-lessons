@@ -50,7 +50,7 @@ function loadVideos(arrayVideos) {
     const listVideos = document.querySelector('.video-list')
     const [mainVideo, title, description] = document.querySelector('.main-video .video').children
 
-    mainVideo.src = arrayVideos[0].src
+    mainVideo.src = arrayVideos[0].src + '?autoplay=1'
     title.innerHTML = arrayVideos[0].title
     description.innerHTML = arrayVideos[0].description
 
@@ -81,7 +81,7 @@ function clickOnVideo(arrayVideos) {
             video.classList.add('active')
 
             if (video.classList.contains('active')) {
-                mainVideo.src = arrayVideos[index].src
+                mainVideo.src = arrayVideos[index].src + '?autoplay=1'
                 title.innerHTML = arrayVideos[index].title
                 description.innerHTML = arrayVideos[index].description
             }

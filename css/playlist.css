@@ -93,13 +93,14 @@ main .main-video {
 main .main-video .video {
     display: flex;
     flex-direction: column;
-    border-radius: 5px;
+    border-radius: 5px; 
 }
 
 main .main-video iframe {
     width: 100%;
     height: 72vh;
     border-radius: 5px;
+    box-shadow: -1px -1px 12px 0px #ccc;
 }
 
 main .main-video .title {
@@ -129,8 +130,8 @@ main .video-list-div .video-list-title {
 }
 
 main .video-list {
-    overflow-y: scroll;
-    height: 800px;
+    overflow-y: auto;
+    height: 650px;
 }
 
 main .video-list::-webkit-scrollbar {
