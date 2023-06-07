@@ -1,6 +1,6 @@
 export const listOfJs = [
     {
-        src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra prevemente como utilizá-lo.`
+        src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra brevemente como utilizá-lo.`
     },
     {
         src: "https://www.youtube.com/embed/BXUrqUPeGSc", title: `JavaScript - Repetições (Parte 1)`, subtitle: 'Incremento e Estrutura while', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código.`
@@ -21,7 +21,7 @@ export const listOfJs = [
 
 export const listOfHtml = [
     {
-        src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra prevemente como utilizá-lo.`
+        src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra brevemente como utilizá-lo.`
     },
     {
         src: "https://www.youtube.com/embed/aaWJU80xKdg", title: `HTML e JavaScript - Tabuada com Repetições`, subtitle: 'Trabalhando com Repetições no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria uma Tabuada com HTML, utilizando Estruturas de Repetição.`
