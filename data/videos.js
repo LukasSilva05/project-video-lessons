@@ -3,6 +3,15 @@ export const listOfJs = [
         src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra prevemente como utilizá-lo.`
     },
     {
+        src: "https://www.youtube.com/embed/BXUrqUPeGSc", title: `JavaScript - Repetições (Parte 1)`, subtitle: 'Incremento e Estrutura while', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código.`
+    },
+    {
+        src: "https://www.youtube.com/embed/JkbEkk67kH4", title: `JavaScript - Repetições (Parte 2)`, subtitle: 'Estrutura for', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código.`
+    },
+    {
+        src: "https://www.youtube.com/embed/CktayeTGFxY", title: `JavaScript - Repetições (Parte 3)`, subtitle: 'Estrutura do...while e Decremento', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código.`
+    },
+    {
         src: "https://www.youtube.com/embed/91Iwx_C9-Fs", title: "JavaScript - Vetores / Arrays", subtitle: 'Criando e Manipulando Vetores', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente começa a trabalhar com listas de dados, criando e manipulando vetores JavaScript.`
     },
     {
@@ -15,11 +24,17 @@ export const listOfHtml = [
         src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra prevemente como utilizá-lo.`
     },
     {
+        src: "https://www.youtube.com/embed/aaWJU80xKdg", title: `HTML e JavaScript - Tabuada com Repetições`, subtitle: 'Trabalhando com Repetições no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria uma Tabuada com HTML, utilizando Estruturas de Repetição.`
+    },
+    {
+        src: "https://www.youtube.com/embed/5ipOSKX-BgI", title: `HTML e JavaScript - Números Pares com Repetições`, subtitle: 'Trabalhando com Repetições no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria um código que mostra números pares de 1 até N, utilizando Estruturas de Repetição.`
+    },
+    {
         src: "https://www.youtube.com/embed/plbc-diGU8I", title: "HTML e JavaScript - Lista de Compras com Vetores e Objetos", subtitle: 'Trabalhando com Vetores no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente utiliza o exemplo de lista de compras, mostrado na aula de vetores, interagindo e utilizando o HTML.`
     },
     {
         src: "https://www.youtube.com/embed/zwI7IYCxOvI", title: `HTML e JavaScript - Loja de Carros com Vetores e Objetos`, subtitle: 'Trabalhando com Vetores no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria uma Loja de Carros com HTML, utilizando Vetores e Objetos.`
-    }
+    },
 ]
 
 export const listOfExercises = [
