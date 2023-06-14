@@ -131,7 +131,7 @@ main .video-list-div .video-list-title {
 
 main .video-list {
     overflow-y: auto;
-    height: 650px;
+    height: 61vh;
 }
 
 main .video-list::-webkit-scrollbar {
