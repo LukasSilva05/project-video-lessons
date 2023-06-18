@@ -1,8 +1,5 @@
 export const listOfJs = [
     {
-        src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra brevemente como utilizá-lo.`
-    },
-    {
         src: "https://www.youtube.com/embed/BXUrqUPeGSc", title: `JavaScript - Repetições (Parte 1)`, subtitle: 'Incremento e Estrutura while', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código.`
     },
     {
@@ -27,9 +24,6 @@ export const listOfJs = [
 
 export const listOfHtml = [
     {
-        src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra brevemente como utilizá-lo.`
-    },
-    {
         src: "https://www.youtube.com/embed/aaWJU80xKdg", title: `HTML e JavaScript - Tabuada com Repetições`, subtitle: 'Trabalhando com Repetições no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria uma Tabuada com HTML, utilizando Estruturas de Repetição.`
     },
     {
@@ -52,44 +46,8 @@ export const listOfHtml = [
     },
 ]
 
-export const listOfExercises = [
+export const listOfVSCode = [
     {
-        src: "https://www.youtube.com/embed/h1-zQ0SSS6M", title: "Aula 01", subtitle: 'subtitle 01', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/sBJmRD7kNTk", title: "Aula 02", subtitle: 'subtitle 02', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/MaV9VqFMzB4", title: `Aula 03`, subtitle: 'subtitle 03', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/W5LPcpIRLzs", title: "Aula 04", subtitle: 'subtitle 04', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/PCa0GOL38YQ", title: "Aula 05", subtitle: 'subtitle 05', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/7bvocbK7CaI", title: "Aula 06", subtitle: 'subtitle 06', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/GXlckaGr0Eo", title: "Aula 07", subtitle: 'subtitle 07', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/9g7rFjOuggU", title: "Aula 08", subtitle: 'subtitle 08', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 09", subtitle: 'subtitle 09', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 10", subtitle: 'subtitle 10', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 11", subtitle: 'subtitle 11', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/J6uam9jEmDU", title: "Aula 12", subtitle: 'subtitle 12', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
-    },
-    {
-        src: "https://www.youtube.com/embed/h1-zQ0SSS6M", title: "Aula 01", subtitle: 'subtitle 01', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies feugiat nisi, nec maximus ante dapibus ut. Suspendisse lobortis purus sed tellus interdum, a euismod massa ultrices. Etiam ut nisi varius, placerat est at, iaculis neque. Duis tempus elit quis justo tempus, ut auctor dolor luctus. Nulla ut tortor sit amet ante eleifend feugiat sit amet rhoncus nisi. Pellentesque vestibulum mi at vulputate consectetur. Donec purus massa, aliquet at neque ac, interdum ullamcorper est.`
+        src: "https://www.youtube.com/embed/LGXAXysqESQ", title: "Como Instalar e Utilizar o Visual Studio Code", subtitle: 'Instalando e utilizando', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente instala o VS Code e mostra brevemente como utilizá-lo.`
     },
 ] 
