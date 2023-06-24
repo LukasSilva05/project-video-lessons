@@ -20,6 +20,12 @@ export const listOfJs = [
     {
         src: "https://www.youtube.com/embed/HCZ6CbDzvo8", title: `JavaScript - Datas`, subtitle: 'Manipulando Datas', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente aprende a manipular datas. Pegando dia, mês e ano de uma determinada data, e até calculando a distância de dias entre duas datas.`
     },
+    {
+        src: "https://www.youtube.com/embed/RfRXrO1YUqE", title: `JavaScript - Funções`, subtitle: 'Trabalhando com Funções', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente finalmente se aprofunda em funções. Funções com parâmetros, retorno de valores e funções anônimas.`
+    },
+    {
+        src: "https://www.youtube.com/embed/F51egGP7a08", title: `JavaScript - Eventos`, subtitle: 'Manipulando Eventos', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente aprende a manipular eventos. Eventos de formulário(submit, reset), de mouse(mouseover, mouseout, click) e até de teclado(keypress), deixando assim, a nossa página bem mais completa e interessante.`
+    },
 ]
 
 export const listOfHtml = [
@@ -43,6 +49,12 @@ export const listOfHtml = [
     },
     {
         src: "https://www.youtube.com/embed/Lv7MOQMA08A", title: `HTML e JavaScript - Manipulando Datas`, subtitle: 'Trabalhando com Datas no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria um programa que calcula a distância entre a data atual e a data de um compromisso. Utilizando os métodos de definir dia, mês e ano.`
+    },
+    {
+        src: "https://www.youtube.com/embed/8U7-QNViyOY", title: `HTML e JavaScript - Programa Senha com Funções`, subtitle: 'Trabalhando com Funções no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria um programa que define uma senha para um aluno. Pegando o último nome dele e a quantidade de vogais que existem no nome.`
+    },
+    {
+        src: "https://www.youtube.com/embed/Lv7MOQMA08A", title: `HTML e JavaScript - Pizzaria com Eventos JavaScript`, subtitle: 'Trabalhando com Eventos no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria um programa para uma pizzaria, que faz o controle de pedidos dos clientes. Utilizando os eventos que aprendemos, vamos deixar o programa bem completo e interessante de utilizar.`
     },
 ]
 
