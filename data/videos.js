@@ -54,7 +54,7 @@ export const listOfHtml = [
         src: "https://www.youtube.com/embed/8U7-QNViyOY", title: `HTML e JavaScript - Programa Senha com Funções`, subtitle: 'Trabalhando com Funções no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria um programa que define uma senha para um aluno. Pegando o último nome dele e a quantidade de vogais que existem no nome.`
     },
     {
-        src: "https://www.youtube.com/embed/Lv7MOQMA08A", title: `HTML e JavaScript - Pizzaria com Eventos JavaScript`, subtitle: 'Trabalhando com Eventos no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria um programa para uma pizzaria, que faz o controle de pedidos dos clientes. Utilizando os eventos que aprendemos, vamos deixar o programa bem completo e interessante de utilizar.`
+        src: "https://www.youtube.com/embed/zYUP9m-FceU", title: `HTML e JavaScript - Pizzaria com Eventos JavaScript`, subtitle: 'Trabalhando com Eventos no HTML', thumb: "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png", description: `Nesse vídeo a gente cria um programa para uma pizzaria, que faz o controle de pedidos dos clientes. Utilizando os eventos que aprendemos, vamos deixar o programa bem completo e interessante de utilizar.`
     },
 ]
 
